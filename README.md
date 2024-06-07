@@ -86,7 +86,7 @@ Provide examples of how to use the project. For example:
 
    - Feel free to modify and experiment with the code to suit your needs.
   
-# Contributing to Project
+# Contributing
 
 First off, thanks for taking the time to contribute!
 
